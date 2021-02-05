@@ -11,3 +11,11 @@
 // "0"
 // []
 // {}
+const friendsName = "kuddus"
+
+if(friendsName){
+    console.log("it's true");
+}
+else{
+    console.log("it's false");
+}
